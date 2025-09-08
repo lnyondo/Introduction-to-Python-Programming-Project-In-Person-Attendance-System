@@ -45,3 +45,14 @@ The CSV file is used to generate graphical visualizations of attendance patterns
 🏥 Patient Attendance Tracking – helps reveal causes of poor engagement, barriers to access, and can aid in predicting patient conditions and tailoring the righ interventions in high risk patients.
 
 👩‍⚕️ Care Delivery Models – attendance patterns in certain populations can guide outreach clinics and mobile health programs.
+
+## Areas for Improvement in Project Implementation
+🖥️ Graphical User Interface (GUI) – At present, data is entered manually in the Python environment (IDLE) before being exported to CSV. Adding a GUI would make the process more user-friendly, improve efficiency, and minimize manual entry errors.
+
+📊 Automated Reports – Generate attendance summaries and performance reports automatically instead of relying only on manual CSV exports.
+
+🌐 Web Integration – Extend the project into a web-based platform to enable real-time attendance tracking and visualization.
+
+🔔 Notifications/Reminders – Add features to send automated reminders to students about upcoming classes or follow-ups when absences are detected through their emails.
+
+[Project code_Attendance tracking.py](https://github.com/user-attachments/files/22200202/Project.code_Attendance.tracking.py)
