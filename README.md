@@ -55,4 +55,6 @@ The CSV file is used to generate graphical visualizations of attendance patterns
 
 🔔 Notifications/Reminders – Add features to send automated reminders to students about upcoming classes or follow-ups when absences are detected through their emails.
 
+### Project Files
 [Project code_Attendance tracking.py](https://github.com/user-attachments/files/22200202/Project.code_Attendance.tracking.py)
+[Tracking class attendance Presentation.pptx](https://github.com/user-attachments/files/22200807/Tracking.class.attendance.Presentation.pptx)
